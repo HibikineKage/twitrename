@@ -1,0 +1,48 @@
+const <Name> = ()=＞{}
+let <Name> = 0;
+ls ~/<Name>/
+sh <Name>.sh
+ls | grep "<Name>"
+git commit -m "<Name>"
+class <Name> (){}
+printf("<Name>\n");
+debug.log("<Name>");
+mes "<Name>"
+echo "<Name>";
+mkdir -m <Name>/src
+cd <Name>
+cat <Name>.md
+wget http://<Name>.com
+404 <Name> Not Found
+catch(<Name> e){}
+vim <Name>.cpp
+tac <Name>.md
+tar -zcvf <Name> /
+tar -xvf <Name>.tar
+zip -r <Name>.zip /
+unzip <Name>.zip
+mv /sys /<Name>
+javac <Name>.java
+java -jar <Name>.jar
+gcc -Wall <Name>.c
+g++ -Wall <Name>.cpp
+chmod 775 <Name>
+rm -r <Name>
+touch <Name>.txt
+pacman -S <Name>
+npm remove <Name>
+yarn add -D <Name>
+docker run <Name>
+"use <Name>";
+import me.<Name>.*;
+include "<Name>.h"
+int* <Name> = nullptr;
+function <Name>(){}
+apt remove <Name>
+yum remove <Name>
+apt-cyg remove <Name>
+apm remove <Name>
+pip remove <Name>
+./<Name>
+cowsay <Name>
+gem remove <Name>
